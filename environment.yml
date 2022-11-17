@@ -1,4 +1,4 @@
-name: grid_env
+name: environment
 channels:
   - conda-forge
   - defaults
@@ -244,4 +244,4 @@ dependencies:
     - websocket-client==1.4.1
     - widgetsnbextension==4.0.3
     - xesmf==0.3.0
-prefix: /Users/Abbie/opt/anaconda3/envs/grid_env
+prefix: /Users/Abbie/opt/anaconda3/envs/environment
