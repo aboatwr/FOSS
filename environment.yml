@@ -40,7 +40,7 @@ dependencies:
   - pyopenssl=22.1.0=pyhd8ed1ab_0
   - pyparsing=3.0.9=pyhd8ed1ab_0
   - pyshp=2.3.1=pyhd8ed1ab_0
-  - pysocks=1.7.1=pyha2e5f31_6
+  - pysocks
   - python-dateutil=2.8.2=pyhd8ed1ab_0
   - python_abi=3.10=2_cp310
   - pytz=2022.5=pyhd8ed1ab_0
