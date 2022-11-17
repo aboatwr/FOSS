@@ -402,4 +402,3 @@ dependencies:
     - virtualenv==20.16.5
     - xagg==0.1.4
     - yarl==1.8.1
-prefix: /Users/Abbie/opt/anaconda3
